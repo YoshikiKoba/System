@@ -1,0 +1,53 @@
+[33mcommit 286845c06e4a4f6c5b8cc54c519c675606d5faad[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: YoshkiKoba <Yosshi-14.jan@ezweb.ne.jp>
+Date:   Fri Jan 24 13:49:37 2020 +0900
+
+    add hamster
+
+[33mcommit 5fae15e80f5feb1b1f167d8239e37d42d0efcca6[m
+Author: YoshkiKoba <Yosshi-14.jan@ezweb.ne.jp>
+Date:   Fri Jan 24 13:49:00 2020 +0900
+
+    add gitignore
+
+[33mcommit 54f92da021009b8a4a551448a155bbd688883ad0[m
+Author: YoshkiKoba <Yosshi-14.jan@ezweb.ne.jp>
+Date:   Fri Jan 24 13:40:58 2020 +0900
+
+    add rat
+
+[33mcommit 3ece2dcd82d73d4e0785a2c7a7f924a90e8ab990[m
+Author: YoshkiKoba <Yosshi-14.jan@ezweb.ne.jp>
+Date:   Fri Jan 24 13:36:24 2020 +0900
+
+    add gitignore
+
+[33mcommit 3006918627ff6b89ebf51589c6f4584be4f56e0b[m
+Author: YoshkiKoba <Yosshi-14.jan@ezweb.ne.jp>
+Date:   Fri Jan 24 13:34:48 2020 +0900
+
+    remove company.txt
+
+[33mcommit aba11d7439cde341b3002f7359d3fc074ee28af4[m
+Author: YoshkiKoba <Yosshi-14.jan@ezweb.ne.jp>
+Date:   Fri Jan 24 13:33:53 2020 +0900
+
+    rename animal.txt -> pet.txt
+
+[33mcommit 78ccec9ad8dbde33186865c558e5e6ea489e589a[m
+Author: YoshkiKoba <Yosshi-14.jan@ezweb.ne.jp>
+Date:   Fri Jan 24 13:31:39 2020 +0900
+
+    add company
+
+[33mcommit ba6c27bb3e08d1f18cf8f1fb8f7bfd1f5ade85c1[m
+Author: YoshkiKoba <Yosshi-14.jan@ezweb.ne.jp>
+Date:   Fri Jan 24 13:31:11 2020 +0900
+
+    update fruit and animal
+
+[33mcommit e7f14de00f4e57d543831f96e35a84c756d504f4[m
+Author: YoshkiKoba <Yosshi-14.jan@ezweb.ne.jp>
+Date:   Fri Jan 24 13:20:13 2020 +0900
+
+    first commit
